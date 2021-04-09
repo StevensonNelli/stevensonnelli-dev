@@ -1,16 +1,10 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
-<p align="center">
-  <a href="https://rolwinreevan.com">
-    <img alt="Gatsby" src="https://github.com/rolwin100/rolwinreevan_gatsby_blog/blob/master/src/images/icon.png" width="60" />
-  </a>
-</p>
+
 <h1 align="center">
-  Gatsby's StevensonNelli Portfolio template using <a href='https://ant.design/' target='_blank'>ant-design</a>
+  Stevenson Nelli Portfolio using <a href='https://ant.design/' target='_blank'>ant-design</a>
 </h1>
-<h3 align="center">Probably the most beautiful 😍 gatsby starter template</h3>
 
-This starter consists of ant design system you can use it for your personal blog. I have give a lot of time in developing this starter because I found that there were not much starters with a very good design. Please give a star to this project if you have like it to encourage me 😄. Thank you.
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9940d173-68f2-455c-b312-4db44fc5eb64/deploy-status)](https://app.netlify.com/sites/stevensonnelli-dev/deploys)
 
 ## 🚀 Quick start
 
@@ -19,9 +13,8 @@ This starter consists of ant design system you can use it for your personal blog
     clone the project and install the dependencies
 
     ```shell
-    
-    git clone https://github.com/rolwin100/rolwinreevan_gatsby_blog.git
-    cd rolwinreevan_gatsby_blog 
+    git clone https://github.com/StevensonNelli/stevensonnelli-dev.git
+    cd stevensonnelli-dev 
     npm install
     ```
 
