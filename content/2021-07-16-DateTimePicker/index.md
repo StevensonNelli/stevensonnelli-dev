@@ -1,7 +1,7 @@
 ---
 title: "DateTimePicker issue (react-widgets)"
 path: blog/date-time-picker
-tags: [javascript, react-widgets, reactJs]
+tags: [javascript, reactjs]
 cover: ./date-time-picker.jpg
 date: 2021-07-16
 excerpt: Issue with DateTimePicker widget.
