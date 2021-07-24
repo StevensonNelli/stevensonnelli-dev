@@ -7,32 +7,36 @@ date: 2021-07-24
 excerpt: Reactive and lightweight JavaScript library. It's perfect for static web sites and It's entering into single page applications world(SPA) through Svelte toolkit.
 ---
 
-# Supporting Features
+## Introduction
 
-Outstanding performance
+Reactive and lightweight JavaScript library. It's perfect for static web sites and It's entering into single page applications world(SPA) through Svelte toolkit.
 
-Small bundles
+## Supporting Features
 
-Accessibility
+- Outstanding performance
 
-Built-in style encapsulation
+- Small bundles
 
-Declarative transitions
+- Accessibility
 
-Ease of use
+- Built-in style encapsulation
 
-The fact that it's a compiler
+- Declarative transitions
 
-TypeScript support
+- Ease of use
 
-Svelte toolkit ( replacing sapper )
+- The fact that it's a compiler
 
-# Not supporting yet
+- TypeScript support
 
-Editor extensions
+- Svelte toolkit ( replacing sapper )
 
-Syntax highlighters
+## Not supporting yet
 
-Component kits ( On the way )
+- Editor extensions
 
-Dev tools
+- Syntax highlighters
+
+- Component kits ( On the way )
+
+- Dev tools
